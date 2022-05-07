@@ -2,3 +2,5 @@ list_a = ["jyo"2,3]
 list_b = [1,2,3]
 list_a.append(list_b)
 print(list_a)
+l_list_a = len(list_a)
+print(l_list_a)
