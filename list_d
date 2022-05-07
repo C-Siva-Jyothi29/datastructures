@@ -4,3 +4,5 @@ list_a.append(list_b)
 print(list_a)
 l_list_a = len(list_a)
 print(l_list_a)
+r = 2 in list_a
+print(r)
