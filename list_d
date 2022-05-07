@@ -1,0 +1,4 @@
+list_a = ["jyo"2,3]
+list_b = [1,2,3]
+list_a.append(list_b)
+print(list_a)
